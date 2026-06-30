@@ -1,0 +1,18 @@
+{
+  // Workspace editor settings for the vaccSystem project.
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.eol": "\n",
+  "files.exclude": {
+    "node_modules": true
+  },
+  "search.exclude": {
+    "node_modules": true,
+    "package-lock.json": true
+  },
+  // Show the SQL files with SQL syntax
+  "files.associations": {
+    "*.sql": "sql"
+  },
+  "liveServer.settings.port": 5501
+}
